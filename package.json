@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/gabrielcostasilva/gh-actions-js-custom-action/issues"
   },
-  "homepage": "https://github.com/gabrielcostasilva/gh-actions-js-custom-action#readme"
+  "homepage": "https://github.com/gabrielcostasilva/gh-actions-js-custom-action#readme",
+  "dependencies": {
+    "@actions/core": "^3.0.1",
+    "@actions/github": "^9.1.1"
+  }
 }
