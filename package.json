@@ -1,0 +1,21 @@
+{
+  "name": "gh-actions-js-custom-action",
+  "version": "1.0.0",
+  "description": "Exercising JS custom action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcostasilva/gh-actions-js-custom-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gabrielcostasilva/gh-actions-js-custom-action/issues"
+  },
+  "homepage": "https://github.com/gabrielcostasilva/gh-actions-js-custom-action#readme"
+}
